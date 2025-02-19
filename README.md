@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Angel
-- 👀 I’m interested in riding bikes and learning new stuff.
+- 👀 I’m interested in learning new stuff.
 - 🌱 I’m currently learning on how to use github and linux 
 
 <!---
